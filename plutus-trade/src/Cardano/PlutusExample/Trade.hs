@@ -24,9 +24,6 @@ module Cardano.PlutusExample.Trade
   , TradeAction(..)
   ) where
 
-import Playground.Contract
-import Wallet.Emulator.Wallet as Emulator
-import Plutus.Contract
 import           Data.Map             as Map
 import qualified Prelude              as Haskell
 --
